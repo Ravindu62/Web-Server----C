@@ -1,7 +1,3 @@
-Certainly! Here's a basic README template you can use for your simple web server project on GitHub:
-
----
-
 # Simple Web Server in C
 
 This is a simple web server implemented in C.
